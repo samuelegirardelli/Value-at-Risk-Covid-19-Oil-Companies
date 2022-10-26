@@ -15,6 +15,7 @@
 # The literature that has been used to build this model is the following:
 #     - Estimation of tail-related risk measures for heteroscedastic financial time series: an extreme value approach (McNeil Frey, 2000)
 #     - Using Extreme Value Theory and Copulas to Evaluate Market Risk (MATLAB Toolbox)
+# On the repository the EVT Function is avaible.
 # We used a 10% rule in order to choose the threshold for the lower and the upper tail.
 # We applied a movable window system in order to compare VaR with traditional methods.
 
