@@ -1,4 +1,5 @@
-# Value-at-Risk-Covid-19-Oil-Companies
+# Value-at-Risk-Covid-19-Oil-Companies-MATLAB
+# We used MATLAB to perform this analysis.
 # This work aims to explain if semi-parametric model like Extreme Value Theory could be able to explain stress period like Covid-19 against traditional methods (Historical Simulation and Normal Distribution).
 # The project is splitted in 3 sections:
 # 1. --- Data Modelling ---
