@@ -40,7 +40,7 @@
 
  At 95% confidance level the traditional methods perform better in the VaR estimation looking at the backtesting.
  
- At 99% confidance level EVT method perform better than the 95% only for %TOT 
+ At 99% confidance level EVT method perform better than the 95% only for %TOT .
  
  At 99% confidance level all the methods seems to explain something different upon different companies.
  
